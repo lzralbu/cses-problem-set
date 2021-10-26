@@ -1,4 +1,5 @@
 board = []
+
 try:
     while True:
         board.append(input())
